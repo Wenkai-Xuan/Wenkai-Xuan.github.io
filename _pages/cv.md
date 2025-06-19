@@ -1,3 +1,4 @@
+<!---
 ---
 layout: archive
 title: "CV"
@@ -12,8 +13,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computational Science and Engineering (Specialization: Robotics), ETH Zürich, 2022-2025
+* B.S. in Geophysics, University of Science and Technology of China, 2018-2022
 
 Work experience
 ======
@@ -62,3 +63,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+![[E:\A_Switzerland\CV__Wenkai_Xuan_.pdf]]
